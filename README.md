@@ -1,5 +1,5 @@
 # Kodluyoruz-hafta3
 
-#Patika Profili
+# Patika Profili
 
 https://app.patika.dev/ygtcft
